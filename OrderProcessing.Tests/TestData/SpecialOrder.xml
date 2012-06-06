@@ -1,0 +1,6 @@
+<ns0:Order xmlns:ns0="http://vintem.com.br/orderprocessing/schemas/2012-06">
+  <ns0:OrderId>00002</ns0:OrderId>
+  <ns0:CustomerName>Thiago Temple</ns0:CustomerName>
+  <ns0:Date>2012-06-05T00:00:00</ns0:Date>
+  <ns0:Total>1050.99</ns0:Total>
+</ns0:Order>
